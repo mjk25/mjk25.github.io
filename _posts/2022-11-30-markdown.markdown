@@ -1,0 +1,23 @@
+---
+layout: post
+title: [유레카] 자주쓰는 Markdown 정리
+date: 2022-11-30 23:10:04 +0300
+description: 유레카 특강에서 다뤘던 내용 Topic 중 배운 내용에 관해 Post 작성
+img: markdown.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [markdown, jekyll, blog, bundle] # add tag
+
+###  자주쓰는 markdown 문법 정리
+---
+html보다 상대적으로 문법이 쉽고 관리가 쉽다는 장점을 지닌 마크다운
+모든 html 마크업을 대신하진 못하지만, 사용자가 어떻게 쓰느냐에 따라 유용하게 쓰일 수 있다.
+
+#제목의 사이즈는 총 6가지로 #를 붙여서
+##이렇게 자유롭게
+###조절할
+####수
+#####있
+######다!
+
+
+

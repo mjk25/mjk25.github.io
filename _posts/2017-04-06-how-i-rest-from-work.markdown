@@ -6,11 +6,10 @@ description: it's a test post # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [blog, jekyll, github]
----
 ===
 Big words
 ===
 
 ---
-TEST POST : Is it working?
+Is it working?
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first post
-date: 2022-11-31 23:32:20 +0300
+date: 2022-11-31 22:32:20 +0300
 description: I write this post in my `_posts` directory.  # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
